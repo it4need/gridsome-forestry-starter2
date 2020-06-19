@@ -7,3 +7,11 @@ fields:
   config:
     required: false
   label: Mein Textfeld
+- name: blocke
+  type: blocks
+  label: Blöcke
+  template_types:
+  - meine-seite
+  config:
+    min: 
+    max: 
