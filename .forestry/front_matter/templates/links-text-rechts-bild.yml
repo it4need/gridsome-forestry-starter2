@@ -1,4 +1,13 @@
 ---
 label: Links Text, rechts Bild
 hide_body: true
-fields: []
+fields:
+- name: text_links
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Text links
