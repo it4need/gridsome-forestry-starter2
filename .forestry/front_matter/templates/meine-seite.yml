@@ -12,6 +12,7 @@ fields:
   label: Blöcke
   template_types:
   - links-text-rechts-bild
+  - links-beliebig-viele-bilder-rechts-text
   config:
     min: 
     max: 
