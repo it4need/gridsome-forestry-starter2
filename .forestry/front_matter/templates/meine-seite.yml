@@ -1,4 +1,9 @@
 ---
 label: Meine Seite
 hide_body: false
-fields: []
+fields:
+- name: mein_textfeld
+  type: text
+  config:
+    required: false
+  label: Mein Textfeld
