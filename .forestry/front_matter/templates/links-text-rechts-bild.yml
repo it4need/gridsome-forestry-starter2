@@ -11,3 +11,9 @@ fields:
     schema:
       format: markdown
   label: Text links
+- name: bilder_upload
+  type: file
+  config:
+    maxSize: 64
+  label: Bilder Upload
+  default: "/uploads/mike-dorner-173502-unsplash.jpg"
